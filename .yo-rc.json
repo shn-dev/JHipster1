@@ -1,0 +1,46 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.bigsoftware.jhipster1",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.1.2",
+    "applicationType": "monolith",
+    "baseName": "JHipster1",
+    "packageName": "com.bigsoftware.jhipster1",
+    "packageFolder": "com/bigsoftware/jhipster1",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OGZiYjEwZjE5MjQxNWY2NGM3OGU1MzRmMTk4Y2RjZDdhYTQ4NjJlOThlMjg1ZTMxYjdiMDEzOWRkNjQ2MDc0ZDM2NWE0NjI1MTJmMzlmZTFlMDVkNDgyMDY1MDI0ZGVhYzEyZTM0ZWE2ZTdhNjNlOTEzZmI4NDFiODBmODI2ZjI=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [
+      "gatling",
+      "cucumber",
+      "protractor"
+    ],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ]
+  }
+}
